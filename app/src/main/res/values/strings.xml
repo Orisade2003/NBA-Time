@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VoiceChess2</string>
+    <string name="nba_time">NBA Time!</string>
+    <string name="register">Register!</string>
+    <string name="sign_in">Sign In!</string>
+</resources>
